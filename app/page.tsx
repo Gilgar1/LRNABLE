@@ -20,11 +20,12 @@ export default function HomePage() {
           <div className="space-y-4">
             <div className="inline-block">
               <Image
-                src="/images/lrnable-logo.jpeg"
-                alt="Lrnable"
-                width={80}
-                height={80}
-                className="w-20 h-20 mx-auto mb-4"
+                src="/images/lrnable-logo-white.jpg"
+                alt="Lrnable Logo"
+                width={200}
+                height={200}
+                className="w-auto h-24 object-contain mx-auto mb-4"
+                priority
               />
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground text-balance">

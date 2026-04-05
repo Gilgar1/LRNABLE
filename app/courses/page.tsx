@@ -28,7 +28,7 @@ const MOCK_COURSES = [
     endDate: '2024-04-15',
     badge: 'Beginner Friendly',
     intro: 'Master the basics of forex trading and start your journey to financial independence.',
-    image: 'https://images.unsplash.com/photo-1611974212247-6bf2f80b2eb6?w=500&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1611974212247-6bf2f80b2eb6?w=800&h=600&fit=crop',
   },
   {
     id: 2,
@@ -46,7 +46,7 @@ const MOCK_COURSES = [
     endDate: '2024-05-15',
     badge: 'Intensive Mentorship',
     intro: 'Advanced techniques for professional forex traders looking to increase profits.',
-    image: 'https://images.unsplash.com/photo-1608187698762-034576422e80?w=500&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642543492481-44e81e3914a7?w=800&h=600&fit=crop',
   },
   {
     id: 3,
@@ -64,7 +64,7 @@ const MOCK_COURSES = [
     endDate: '2024-04-20',
     badge: 'Beginner Friendly',
     intro: 'Build a profitable digital marketing business from scratch using proven strategies.',
-    image: 'https://images.unsplash.com/photo-1460925895917-aeb19be489c7?w=500&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop',
   },
   {
     id: 4,
@@ -82,7 +82,7 @@ const MOCK_COURSES = [
     endDate: '2024-04-25',
     badge: 'Beginner Friendly',
     intro: 'Turn your TikTok presence into a sustainable income stream.',
-    image: 'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=500&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1611605698335-8b1569810432?w=800&h=600&fit=crop',
   },
   {
     id: 5,
@@ -100,7 +100,7 @@ const MOCK_COURSES = [
     endDate: '2024-05-01',
     badge: 'Intermediate',
     intro: 'Learn swing trading techniques for consistent monthly profits.',
-    image: 'https://images.unsplash.com/photo-1607734564536-76e0822b8ff5?w=500&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1620241608701-94ef138c7ea9?w=800&h=600&fit=crop',
   },
   {
     id: 6,
@@ -118,7 +118,7 @@ const MOCK_COURSES = [
     endDate: '2024-04-30',
     badge: 'Intensive Mentorship',
     intro: 'Become a successful influencer and monetize your audience.',
-    image: 'https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=500&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=600&fit=crop',
   },
 ]
 

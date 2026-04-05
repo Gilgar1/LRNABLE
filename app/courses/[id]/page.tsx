@@ -25,7 +25,7 @@ export default function CourseDetailPage({ params }: { params: Promise<{ id: str
     title: 'Forex Trading Fundamentals',
     mentor: 'John Nkomo',
     mentorBio: 'Professional trader with 8+ years experience trading forex. Started with $500, now manages $50k+.',
-    mentorImage: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop',
+    mentorImage: 'https://images.unsplash.com/photo-1611974212247-6bf2f80b2eb6?w=800&h=600&fit=crop',
     category: 'forex',
     price: 50000,
     currency: 'XAF',
@@ -37,7 +37,7 @@ export default function CourseDetailPage({ params }: { params: Promise<{ id: str
     endDate: '2024-04-15',
     badge: 'Beginner Friendly',
     intro: 'Master the basics of forex trading and start your journey to financial independence.',
-    image: 'https://images.unsplash.com/photo-1611974212247-6bf2f80b2eb6?w=800&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1611974212247-6bf2f80b2eb6?w=800&h=600&fit=crop',
     description: `
       This comprehensive mentorship program will guide you through everything you need to know to start trading forex profitably.
       

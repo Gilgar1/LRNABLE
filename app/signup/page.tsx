@@ -65,11 +65,11 @@ function SignupContent() {
           {/* Header */}
           <div className="bg-gradient-to-r from-primary to-secondary p-8 text-center">
             <Image
-              src="/images/lrnable-logo.jpeg"
-              alt="Lrnable"
-              width={60}
-              height={60}
-              className="w-16 h-16 mx-auto mb-4"
+              src="/images/lrnable-logo-white.jpg"
+              alt="Lrnable Logo"
+              width={160}
+              height={160}
+              className="w-auto h-20 object-contain mx-auto mb-4"
             />
             <h1 className="text-3xl font-bold text-white mb-2">Join Lrnable</h1>
             <p className="text-primary-foreground/80">Start your learning journey today</p>

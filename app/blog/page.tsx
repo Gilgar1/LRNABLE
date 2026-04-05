@@ -14,7 +14,7 @@ const BLOG_POSTS = [
     author: 'John Nkomo',
     date: '2024-02-15',
     readTime: '8 min read',
-    image: 'https://images.unsplash.com/photo-1607734564536-76e0822b8ff5?w=600&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1611974212247-6bf2f80b2eb6?w=800&h=600&fit=crop',
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const BLOG_POSTS = [
     author: 'Lisa Etindele',
     date: '2024-02-12',
     readTime: '6 min read',
-    image: 'https://images.unsplash.com/photo-1460925895917-aeb19be489c7?w=600&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop',
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ const BLOG_POSTS = [
     author: 'David Kamdem',
     date: '2024-02-10',
     readTime: '10 min read',
-    image: 'https://images.unsplash.com/photo-1611974212247-6bf2f80b2eb6?w=600&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642543492481-44e81e3914a7?w=800&h=600&fit=crop',
   },
   {
     id: 4,
@@ -47,7 +47,7 @@ const BLOG_POSTS = [
     author: 'Asha Mohamed',
     date: '2024-02-08',
     readTime: '7 min read',
-    image: 'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1611605698335-8b1569810432?w=800&h=600&fit=crop',
   },
   {
     id: 5,
@@ -58,7 +58,7 @@ const BLOG_POSTS = [
     author: 'Lrnable Team',
     date: '2024-02-05',
     readTime: '5 min read',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1620241608701-94ef138c7ea9?w=800&h=600&fit=crop',
   },
   {
     id: 6,
@@ -69,7 +69,7 @@ const BLOG_POSTS = [
     author: 'Charles Tagne',
     date: '2024-02-03',
     readTime: '9 min read',
-    image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=600&fit=crop',
   },
 ]
 

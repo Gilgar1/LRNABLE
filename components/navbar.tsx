@@ -25,15 +25,15 @@ export function Navbar() {
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
+          <Link href="/" className="flex items-center hover:opacity-80 transition-opacity">
             <Image
-              src="/images/lrnable-logo.jpeg"
-              alt="Lrnable"
-              width={40}
-              height={40}
-              className="w-10 h-10"
+              src="/images/lrnable-logo-white.jpg"
+              alt="LRNABLE Logo"
+              width={200}
+              height={200}
+              className="h-12 w-auto object-contain py-1"
+              priority
             />
-            <span className="hidden font-bold text-lg sm:inline-block text-primary">Lrnable</span>
           </Link>
 
           {/* Desktop Navigation */}
